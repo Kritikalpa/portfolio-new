@@ -218,15 +218,15 @@ export const projects = [
     company: "Freelance",
     color: "#f59e0b",
   },
-  {
-    id: 6,
-    title: "Ena in Hogwarts",
-    description:
-      "2D Android game development using Godot Engine and C#. Features handcrafted art and magic-themed gameplay mechanics.",
-    tech: ["C#", "Godot Engine", "Photoshop", "2D Game Dev"],
-    highlight: "Indie Android game project",
-    featured: false,
-    company: "Personal Project",
-    color: "#10b981",
-  },
+  // {
+  //   id: 6,
+  //   title: "Ena in Hogwarts",
+  //   description:
+  //     "2D Android game development using Godot Engine and C#. Features handcrafted art and magic-themed gameplay mechanics.",
+  //   tech: ["C#", "Godot Engine", "Photoshop", "2D Game Dev"],
+  //   highlight: "Indie Android game project",
+  //   featured: false,
+  //   company: "Personal Project",
+  //   color: "#10b981",
+  // },
 ];
