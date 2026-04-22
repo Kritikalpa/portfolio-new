@@ -110,32 +110,22 @@ export const experience = [
   },
   {
     id: 3,
-    role: "Frontend Lead",
+    role: "Senior Frontend Engineer",
     company: "LongShot AI",
     location: "Mumbai, India",
-    duration: "Feb 2022 - Dec 2022",
+    duration: "Dec 2021 - Dec 2022",
     type: "Full-time",
     achievements: [
       "Built the LongShot Chrome Extension — #2 Product of the Day on Product Hunt. A very proud 'no-sleep' moment.",
       "Assisted in fine-tuning open-source LLMs on proprietary datasets to improve domain-specific text generation.",
       "Integrated Semrush APIs into LongShot through direct collaboration with the Semrush team, expanding product functionality.",
       "Revamped the entire application UI, delivering a modern interface and reducing load time by 40%.",
-    ],
-  },
-  {
-    id: 4,
-    role: "Senior Frontend Engineer",
-    company: "LongShot AI",
-    location: "Mumbai, India",
-    duration: "Dec 2021 - Feb 2022",
-    type: "Full-time",
-    achievements: [
       "Developed and implemented a real-time collaboration feature using WebRTC, enabling up to 10 users to work simultaneously.",
       "Maintained, refactored, and optimized the existing codebase, improving stability, performance, and scalability.",
     ],
   },
   {
-    id: 5,
+    id: 4,
     role: "Frontend Engineer",
     company: "Klinify",
     location: "Singapore",
@@ -147,7 +137,7 @@ export const experience = [
     ],
   },
   {
-    id: 6,
+    id: 5,
     role: "Senior Analyst, React Developer",
     company: "Capgemini",
     location: "Mumbai, India",
@@ -159,7 +149,7 @@ export const experience = [
     ],
   },
   {
-    id: 7,
+    id: 6,
     role: "Developer Intern",
     company: "Appato",
     location: "Tripura, India",
