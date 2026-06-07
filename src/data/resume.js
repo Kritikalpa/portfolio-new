@@ -20,10 +20,10 @@ export const roles = [
 
 export const about = {
   summary:
-    "Full-Stack Developer with specialization in Frontend Engineering, bringing 6+ years of experience in building scalable, responsive, and user-focused web applications. Skilled in both frontend technologies and backend development, with a proven ability to deliver end-to-end solutions. Adept at collaborating in multicultural teams, optimizing performance, and leveraging AI coding assistants (Claude Code, Antigravity) to accelerate development lifecycles by 70% without compromising code quality.",
+    "Full-Stack Developer with specialization in Frontend Engineering, bringing 8 years of experience in building scalable, responsive, and user-focused web applications. Skilled in both frontend technologies and backend development, with a proven ability to deliver end-to-end solutions. Adept at collaborating in multicultural teams, optimizing performance, and leveraging AI coding assistants (Claude Code, Antigravity) to accelerate development lifecycles by 70% without compromising code quality.",
   funFact: "I can debug complex React state at 2 AM, but I still need three tries to plug in a USB cable.",
   highlights: [
-    "6+ years of professional software engineering experience",
+    "8 years of professional software engineering experience",
     "Specialized in Frontend Engineering and AI Orchestration",
     "Accelerated development cycles by 70% using AI tools",
     "Architected and deployed RAG pipelines and Multi-Agent systems",

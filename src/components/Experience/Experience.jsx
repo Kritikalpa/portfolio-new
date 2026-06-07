@@ -23,7 +23,7 @@ export default function Experience() {
           </div>
           <h2 id="exp-heading">The journey so far</h2>
           <p style={{ color: 'var(--text-secondary)', marginTop: 12 }}>
-            7+ years of shipping, debugging, refactoring, and doing it all again.
+            8 years of shipping, debugging, refactoring, and doing it all again.
           </p>
         </motion.div>
 

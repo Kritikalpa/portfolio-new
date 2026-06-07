@@ -44,7 +44,7 @@ export default function About() {
             </div>
             <div className={styles['floating-badge']}>
               <Briefcase size={16} className={styles.icon} />
-              <span>6+ years building the web</span>
+              <span>8 years building the web</span>
             </div>
           </motion.div>
 
